@@ -6,3 +6,7 @@
 local battery_widget = require("awesome-widgets.battery")
 local brightness_widget = require("awesome-widgets.bright")
 ```
+
+- [x] American free software movement activist
+- [x] Launched the GNU Project
+- [ ] Allowed access to AI Lab
